@@ -1,6 +1,6 @@
 # PaceMetrics
 ## Desenvolvido na HackSprint em Squad.
-Aplicativo que calcula o Ritmo!
+Aplicativo que calcula o Ritmo e salva seu histórico!
 
 
 
