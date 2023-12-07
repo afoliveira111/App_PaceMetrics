@@ -3,6 +3,8 @@
 Aplicativo que calcula o Ritmo e salva seu histórico!
 
 
+## :camera_flash: Screenshots
+<!-- You can add more screenshots here if you like -->
 
 <table>
   <tr>
