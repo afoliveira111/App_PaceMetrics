@@ -88,7 +88,7 @@ O projeto está organizado em diferentes pacotes, cada um responsável por uma p
   
 
 ## Autor
-Antonio Felipe Oliveira (www.linkedin.com/in/id-antonio-felipe)
+Antonio Felipe Oliveira www.linkedin.com/in/id-antonio-felipe
 
 ## License
 
